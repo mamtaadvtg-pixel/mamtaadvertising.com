@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /404.html
 
-Sitemap: https://www.mamtaadvertising.co.in/sitemap.xml
+Sitemap: https://www.mamtaadvertising.com/sitemap.xml
